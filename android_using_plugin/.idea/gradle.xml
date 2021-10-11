@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/git/alarm_plugin-f353d328ba0896dacb92e6fe7304252155a31336/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_local_notifications-6.1.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.0.8/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.0.0+4/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../flutter_module_using_plugin/.android/Flutter" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

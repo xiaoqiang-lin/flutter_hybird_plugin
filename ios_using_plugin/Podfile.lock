@@ -1,0 +1,79 @@
+PODS:
+  - alarm_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - flutter_module_using_plugin (0.0.1):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - alarm_plugin
+    - Flutter
+    - flutter_local_notifications
+    - sensors
+    - shared_preferences
+    - sqflite
+    - url_launcher
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - sensors (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - alarm_plugin (from `../flutter_module_using_plugin/.ios/.symlinks/plugins/alarm_plugin/ios`)
+  - Flutter (from `../flutter_module_using_plugin/.ios/Flutter/engine`)
+  - flutter_local_notifications (from `../flutter_module_using_plugin/.ios/.symlinks/plugins/flutter_local_notifications/ios`)
+  - flutter_module_using_plugin (from `../flutter_module_using_plugin/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `../flutter_module_using_plugin/.ios/Flutter/FlutterPluginRegistrant`)
+  - sensors (from `../flutter_module_using_plugin/.ios/.symlinks/plugins/sensors/ios`)
+  - shared_preferences (from `../flutter_module_using_plugin/.ios/.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `../flutter_module_using_plugin/.ios/.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `../flutter_module_using_plugin/.ios/.symlinks/plugins/url_launcher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+
+EXTERNAL SOURCES:
+  alarm_plugin:
+    :path: "../flutter_module_using_plugin/.ios/.symlinks/plugins/alarm_plugin/ios"
+  Flutter:
+    :path: "../flutter_module_using_plugin/.ios/Flutter/engine"
+  flutter_local_notifications:
+    :path: "../flutter_module_using_plugin/.ios/.symlinks/plugins/flutter_local_notifications/ios"
+  flutter_module_using_plugin:
+    :path: "../flutter_module_using_plugin/.ios/Flutter"
+  FlutterPluginRegistrant:
+    :path: "../flutter_module_using_plugin/.ios/Flutter/FlutterPluginRegistrant"
+  sensors:
+    :path: "../flutter_module_using_plugin/.ios/.symlinks/plugins/sensors/ios"
+  shared_preferences:
+    :path: "../flutter_module_using_plugin/.ios/.symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: "../flutter_module_using_plugin/.ios/.symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: "../flutter_module_using_plugin/.ios/.symlinks/plugins/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  alarm_plugin: 109567cad39d515d0b7a67fef5db02dfcfcf1778
+  Flutter: bdfa2e8fe0e2880a2c6a58a0b1a8675c262a07af
+  flutter_local_notifications: 0c0b1ae97e741e1521e4c1629a459d04b9aec743
+  flutter_module_using_plugin: 3c6ddd2296edc03cbe09c33f12a2c522ccc36e5b
+  FlutterPluginRegistrant: dca033fdbd0bb8a9fc7f076c90a8523e934eec27
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  sensors: 84eb7a30e47a649e4172b71d6e81be614c280336
+  shared_preferences: 5033afbb22d372e15aff8ff766df9021b845f273
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  url_launcher: a1c0cc845906122c4784c542523d8cacbded5626
+
+PODFILE CHECKSUM: 357b6c94e1edb8289fba0dbdd79daa105ab9d88c
+
+COCOAPODS: 1.11.2
